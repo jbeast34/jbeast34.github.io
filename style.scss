@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background:#1b1b1b;
+	background:#1a1a1a;
   font: 18px/1.4 $helvetica;
   color: #ffffff
 }
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: #ffffff;
   }
 }
 
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #ffffff;
 }
 
 p {
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #2b5a8c;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
