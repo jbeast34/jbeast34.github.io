@@ -44,8 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
-  a {
+  font-size: 30px;  a {
     color: #ffffff;
   }
 }
@@ -55,8 +54,7 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
-}
+  font-size: 20px;}
 
 h4 {
   font-size: 18px;
@@ -72,7 +70,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $red;
   }
 }
 
@@ -121,12 +119,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: #ffffff;
-  background: #ffffff;
+  color: #ff0000;
+  background: #ff0000;
 }
 ::selection {
-  color: #ffffff;
-  background: #ffffff;
+  color: #ff0000;
+  background: #ff0000;
 }
 
 // Nicolas Gallagher's micro clearfix hack
