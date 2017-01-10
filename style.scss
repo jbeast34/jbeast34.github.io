@@ -1,19 +1,24 @@
- 
-"{@import"reset";".
-} 
+---
+---
 
-{@import "reset";
-@import "variables";{
+//
+// IMPORTS
+//
+
+@import "reset";
+@import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-/**************/{
+/**************/
 /* BASE RULES */
-	/**************/}
-
-
+/**************/
+html {
+  font-size: 100%;
+}
 
 body {
-	background:URL (https://www.google.com/search?q=cool+pictures&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi6iM7qwfHQAhUkDcAKHTE0A_cQ_AUICCgB&biw=1920&bih=983#imgrc=Lb8CuK0BG6CYpM%3A  font: 18px/1.4 $helvetica;)
+	background:URL;
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/22/80/21/228021de05008b2b81fbd0d6ca8a57f6.jpg");
   color: $gold;
 }
 
