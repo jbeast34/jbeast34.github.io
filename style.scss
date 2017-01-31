@@ -17,7 +17,6 @@ html {
 }
 
 body {
-	background:URL;
 	background-image: url("http://www.qygjxz.com/data/out/49/4559488-cool-background-pictures.jpg");
 }
 
@@ -27,7 +26,7 @@ body {
   max-width: 740px;
   padding: 0 20px;
   width: 100%;
-  background: rgba(240,100,00,0.8)
+  background: rgba(240,100,00,0.8);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -154,7 +153,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-	border-bottom: 1px;solid,lightgray}
+	border-bottom: 1px;solid,lightgray;
 
   @include mobile {
     text-align: center;
