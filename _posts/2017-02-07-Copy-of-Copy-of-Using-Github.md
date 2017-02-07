@@ -1,5 +1,5 @@
 ---
-title: Copy of Copy of Using Github
+title: starting codcadimy
 layout: post
 author: joseph.brocksom
 permalink: /copy-of-copy-of-using-github/
