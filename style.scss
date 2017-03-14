@@ -127,7 +127,19 @@ img {
   color: #ff0000;
   background: #ff0000;
 }
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+}
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
