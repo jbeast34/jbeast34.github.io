@@ -1,5 +1,5 @@
 ---
-title: even,even more codcadamy work codcadamy work
+title: even more codcadamy work
 layout: post
 author: joseph.brocksom
 permalink: /evan-more-codcadamy-work/
